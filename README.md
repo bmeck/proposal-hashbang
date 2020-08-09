@@ -21,7 +21,7 @@ console.log(1);
 ## Status
 
 * Stage: 3
-* [Tests](https://github.com/tc39/test262/pull/1983)
+* [Tests](https://github.com/tc39/test262/pull/2065)
 * Spec PR: TODO
 * Implementations shipping:
   * [Chrome 74](https://www.chromestatus.com/features#milestone%3D74)
